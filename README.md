@@ -1,3 +1,8 @@
 # TextverseClient
-for Desktop, wrap with Rust for html, React
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)for Desktop, wrap with Rust for html, React
 Using Tauri framework
+
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
